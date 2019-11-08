@@ -9,7 +9,7 @@ The objective is to make a classification of products from a market place with t
  - The temp folder will contains temporary  files produced by the code. in function of options it could be really long (18hours) so I have made files with punctual results to read if they are present and to compute if they are not. 
  - The python notebook is converted into HTML file Market_place.html available at :
 
-http://htmlpreview.github.io/?https://github.com/DavidJulienMillet/MscP3_Product_image_and_text_classificationn/blob/master/Market_place.html
+http://htmlpreview.github.io/?https://github.com/DavidJulienMillet/MscP3_Product_image_and_text_classification/blob/master/Market_place.html
 
  - The environment.yml contains the conda environment used.
 
