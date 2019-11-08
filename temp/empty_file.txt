@@ -1,1 +1,2 @@
-This is an empty file to maintain the folder present in Github
+This is an empty file to maintain the folder present in Github.
+The folder will contains temporary files.
