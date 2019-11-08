@@ -1,5 +1,5 @@
 Code used to create conda env :
-cd /home/millet/Desktop/Msc_P2_MscP2_Olist-customer-segmentation
+cd /home/millet/Desktop/MscP3_Product_image_and_text_classification
 conda create --prefix conda_env_P3 python=3.6
 conda config --append envs_dirs /home/millet/Desktop/MscP3_Product_image_and_text_classification
 conda activate conda_env_P3
